@@ -1,0 +1,23 @@
+.navbar {
+	padding: 30px 2px;
+	background-color: red;
+}
+
+.navbar ul {
+	list-style-type: none;
+	margin: -8px -31px;
+}
+
+.navbar ul li {
+	float: left;
+	padding: 0px 20px;
+}
+
+.navbar ul li a {
+	color: white;
+	text-decoration: none;
+}
+
+.navbar ul li:hover {
+	background-color: aqua;
+}

@@ -1,14 +1,13 @@
-# DANIS YOGASWARA (1137050062)
-```
-Saya adalah seorang kapiten
-```
+# Profile Page
+Profile page adalah sebuah halaman untuk menampilkan biorafi mahasiswa.
 
-## APPS
-ini adalah aplikasi pertama saya
-
-## MASALAH,
-```
-- git config --global user.email "danistutorial@gmail.com"
-
-- git config --global user.name "Danis Yogaswara"
-```
+# Spesification
+- NavBar
+	- Home
+	- Task
+- Container
+	- Avatar
+	- Name
+	- Description
+- Footer
+	(Copyright @ 2018)
